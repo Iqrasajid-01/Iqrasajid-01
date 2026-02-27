@@ -5,14 +5,11 @@
 
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave">
-
-# IQRA SAJID
+# 👋 IQRA SAJID
 
 ### 🚀 Full Stack Developer | AI Engineer | OpenAI Agents SDK Specialist
 
-<!-- Animated Badges -->
+<!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Iqrasajid--01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqrasajid-01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fiqra--sajid--a25241236-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-sajid-a25241236)
 [![Location](https://img.shields.io/badge/Location-Karachi,_Pakistan-25B36B?style=for-the-badge&logo=map-marker&logoColor=white)](https://maps.google.com/?q=Karachi,Pakistan)
@@ -20,7 +17,7 @@
 
 ---
 
-<!-- Animated Typing Effect Image -->
+<!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BA666&center=true&width=435&lines=Building+AI-Powered+Applications;Creating+Scalable+Web+Solutions;Turning+Ideas+Into+Reality;Open+For+Freelance+Projects" alt="Typing SVG" />
 
 ---
@@ -33,25 +30,18 @@
 
 As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-to-end applications that combine cutting-edge AI technologies with robust web development.
 
-<div align="center">
-
-| <img src="https://media.giphy.com/media/W9tBvzTXkQbi8/giphy.gif" width="30"> | **AI Integration** | OpenAI Agents SDK, LLM integration, chatbots, intelligent automation |
-|:---:|------------------|---------------------------------------------------------------------|
-| <img src="https://media.giphy.com/media/TnD7GsFjllWA0/giphy.gif" width="30"> | **Full Stack Development** | Complete web applications from frontend to backend |
-| <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30"> | **Custom Solutions** | Tailored software for business needs and workflows |
-| <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> | **Rapid Prototyping** | Quick MVP development for startups and hackathons |
-
-</div>
+| Service | Description |
+|---------|-------------|
+| **🤖 AI Integration** | OpenAI Agents SDK, LLM integration, chatbots, intelligent automation |
+| **🌐 Full Stack Development** | Complete web applications from frontend to backend |
+| **🔧 Custom Solutions** | Tailored software for business needs and workflows |
+| **⚡ Rapid Prototyping** | Quick MVP development for startups and hackathons |
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
 ### ⚡ Languages & Frameworks
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -61,8 +51,6 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ### 🤖 AI & Machine Learning
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ2k0b3Vtb3J5bnI4Zm54cWV5b3J5b3J5b3J5b3J5b3J5b3J5b3J5/26tn3zTtWFnqjqjMA/giphy.gif" width="60">
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -70,14 +58,10 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ### 🧰 Tools & Technologies
 
-<img src="https://media.giphy.com/media/1516yjmQk9TbW/giphy.gif" width="60">
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
 
 ---
 
@@ -85,27 +69,17 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SkRiR4QVOo/giphy.gif" width="50">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=2ba666&icon_color=2ba666&text_color=7ee787)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ba666&text_color=7ee787)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true&background=0d1117&stroke=2ba666)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o6fJdYXrGw7h9nKXC/giphy.gif" width="50">
-
-### 🏆 Recent Work
-
-</div>
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -138,10 +112,6 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ## 💡 Why Work With Me?
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn3zTtWFnqjqjMA/giphy.gif" width="60">
-
 | ✨ | Quality | Impact |
 |:---:|---------|--------|
 | 🎯 | **Client-Focused** | Your vision drives every decision |
@@ -151,22 +121,14 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 | 🛡️ | **Quality Code** | Clean, maintainable, and scalable solutions |
 | 🤖 | **AI Expertise** | Cutting-edge AI integration for competitive advantage |
 
-</div>
-
 ---
 
 ## 📈 What I'm Looking For
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlHFRbmaZ9KPsT6/giphy.gif" width="50">
-
 I'm actively seeking:
 
-</div>
-
-| Opportunity | Type |
-|-------------|------|
+| Opportunity | Details |
+|-------------|---------|
 | 🏢 | **Freelance Projects** - Web development, AI integration, chatbot development |
 | 🤝 | **Collaborations** - Open source contributions and team projects |
 | 💼 | **Contract Work** - Short-term and long-term opportunities |
@@ -177,8 +139,6 @@ I'm actively seeking:
 ## 📬 Let's Connect!
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="80">
 
 ### Ready to bring your ideas to life?
 
@@ -222,8 +182,6 @@ I'm actively seeking:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26BRBKqUiq586bRVm/giphy.gif" width="60">
-
 ### ⭐ Thanks for visiting my profile!
 
 **If you like my work, feel free to ⭐ star my repositories and follow me on GitHub!**
@@ -231,7 +189,5 @@ I'm actively seeking:
 ---
 
 *Built with passion and ☕ by Iqra Sajid*
-
-<img src="https://media.giphy.com/media/13CoOq543cTjGM/giphy.gif" width="40">
 
 </div>
