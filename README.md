@@ -1,23 +1,28 @@
+<!--
+  Hi! Thanks for visiting my profile.
+  Built with ❤️ for showcasing skills and attracting potential clients
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=IQRA%20SAJID&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Innovator&descAlignY=55&fontColor=fff" width="100%"/>
+
+# 👋 IQRA SAJID
+
+### 🚀 Full Stack Developer | AI Engineer | OpenAI Agents SDK Specialist
+
+<!-- Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-Iqrasajid--01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqrasajid-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fiqra--sajid--a25241236-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-sajid-a25241236)
+[![Location](https://img.shields.io/badge/Location-Karachi,_Pakistan-25B36B?style=for-the-badge&logo=map-marker&logoColor=white)](https://maps.google.com/?q=Karachi,Pakistan)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%7C%20Projects-2BA666?style=for-the-badge)](mailto:iqrasajid284@gmail.com)
+
+---
+
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BA666&center=true&width=435&lines=Building+AI-Powered+Applications;Creating+Scalable+Web+Solutions;Turning+Ideas+Into+Reality;Open+For+Freelance+Projects" alt="Typing SVG" />
+
+---
+
 </div>
-
-<p align="center">
-  <a href="https://github.com/Iqrasajid-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/iqra-sajid-a25241236"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:iqrasajid284@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://maps.google.com/?q=Karachi,Pakistan"><img src="https://img.shields.io/badge/Karachi,_Pakistan-00B4D8?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Iqrasajid-01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<!-- Typing Animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Crafting+Scalable+Web+Solutions;Turning+Ideas+Into+Reality;Open+For+Freelance+%26+Collaboration;Always+Learning+%26+Growing" alt="Typing SVG"/>
-  </a>
-</div>
-
-<br/>
 
 <!-- About Me Section -->
 <details open>
@@ -56,6 +61,21 @@ aspiring_role:
 
 <br clear="right"/>
 </details>
+
+---
+
+## 💼 What I Do
+
+> *"I transform ideas into powerful, scalable solutions."*
+
+As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-to-end applications that combine cutting-edge AI technologies with robust web development.
+
+| Service | Description |
+|---------|-------------|
+| **🤖 AI Integration** | OpenAI Agents SDK, LLM integration, chatbots, intelligent automation |
+| **🌐 Full Stack Development** | Complete web applications from frontend to backend |
+| **🔧 Custom Solutions** | Tailored software for business needs and workflows |
+| **⚡ Rapid Prototyping** | Quick MVP development for startups and hackathons |
 
 ---
 
@@ -185,72 +205,33 @@ aspiring_role:
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iqrasajid-01&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1" width="100%"/>
-</div>
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="180em"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true&background=0D1117&fire=00B4D8&ring=00B4D8&currStreakLabel=00B4D8" height="180em"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true)
 
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iqrasajid-01&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Chatbot System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=flat&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        </p>
-        <p align="center">Advanced conversational AI with context awareness and intelligent responses</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📋 School Management System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        </p>
-        <p align="center">Comprehensive admin dashboard for educational institutions</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏠 Real Estate Platform</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        </p>
-        <p align="center">Property listing and management solution</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">✅ Full-Stack Todo App</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        </p>
-        <p align="center">Task management with persistent storage and clean UI</p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🤖 AI Chatbot System** | Advanced conversational AI with context awareness | OpenAI SDK, TypeScript |
+| **📋 School Management System** | Comprehensive admin dashboard for educational institutions | HTML, CSS, JavaScript |
+| **🏠 Real Estate Platform** | Property listing and management solution | HTML, CSS, JavaScript |
+| **✅ Full-Stack Todo App** | Task management with persistent storage | TypeScript, Node.js |
+| **📚 Physical AI & Robotics Book** | Educational resource on humanoid robotics | HTML, Documentation |
 
 <details>
 <summary><b>📁 View All Repositories</b></summary>
 
-<br/>
 <div align="center">
 
 | Repository | Language | Last Updated |
@@ -264,71 +245,89 @@ aspiring_role:
 | [`PHYSICAL-AI-AND-HUMANOID-ROBOTICS-BOOK`](https://github.com/Iqrasajid-01/PHYSICAL-AI-AND-HUMANOID-ROBOTICS-BOOK) | HTML | Dec 2025 |
 
 </div>
+
 </details>
 
 ---
 
-## 💡 What I Bring to the Table
+## 💡 Why Work With Me?
+
+| ✨ | Quality | Impact |
+|:---:|---------|--------|
+| 🎯 | **Client-Focused** | Your vision drives every decision |
+| ⚡ | **Fast Delivery** | Quick turnaround without compromising quality |
+| 🔄 | **Iterative Approach** | Regular updates and feedback integration |
+| 💬 | **Clear Communication** | Transparent progress reporting |
+| 🛡️ | **Quality Code** | Clean, maintainable, and scalable solutions |
+| 🤖 | **AI Expertise** | Cutting-edge AI integration for competitive advantage |
+
+---
+
+## 📈 What I'm Looking For
+
+I'm actively seeking:
+
+| Opportunity | Details |
+|-------------|---------|
+| 🏢 | **Freelance Projects** - Web development, AI integration, chatbot development |
+| 🤝 | **Collaborations** - Open source contributions and team projects |
+| 💼 | **Contract Work** - Short-term and long-term opportunities |
+| 🚀 | **Startup Opportunities** - MVP development and technical co-founding |
+
+---
+
+## 📬 Let's Connect!
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🎯</td>
-      <td><b>Client-Focused</b><br/>Your vision drives every decision</td>
-      <td align="center">⚡</td>
-      <td><b>Fast Delivery</b><br/>Quick turnaround without cutting corners</td>
-    </tr>
-    <tr>
-      <td align="center">🔄</td>
-      <td><b>Iterative Approach</b><br/>Regular updates and feedback loops</td>
-      <td align="center">💬</td>
-      <td><b>Clear Communication</b><br/>Transparent progress at every stage</td>
-    </tr>
-    <tr>
-      <td align="center">🛡️</td>
-      <td><b>Clean Code</b><br/>Maintainable, scalable, testable</td>
-      <td align="center">🧠</td>
-      <td><b>AI Expertise</b><br/>Cutting-edge AI for competitive advantage</td>
-    </tr>
-  </table>
+
+### Ready to bring your ideas to life?
+
+<br>
+
+<!-- Clickable Social Media Buttons -->
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:iqrasajid284@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/📧_Email-Contact_Now-2BA666?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/iqra-sajid-a25241236" target="_blank">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/Iqrasajid-01" target="_blank">
+<img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📧 Contact Information
+
+| Platform | Link |
+|----------|------|
+| **📧 Email** | [iqrasajid284@gmail.com](mailto:iqrasajid284@gmail.com) |
+| **💼 LinkedIn** | [in/iqra-sajid-a25241236](https://www.linkedin.com/in/iqra-sajid-a25241236) |
+| **🐙 GitHub** | [@Iqrasajid-01](https://github.com/Iqrasajid-01) |
+| **📍 Location** | Karachi, Pakistan 🇵🇰 |
+
 </div>
 
 ---
 
-## 📬 Let's Connect & Collaborate
-
 <div align="center">
-  <p><i>"The best way to predict the future is to create it." — Peter Drucker</i></p>
-  <br/>
 
-  <a href="mailto:iqrasajid284@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iqra-sajid-a25241236">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Iqrasajid-01">
-    <img src="https://img.shields.io/badge/Let's_Collaborate-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+### ⭐ Thanks for visiting my profile!
 
-  <br/><br/>
-
-  | 🌐 Platform | 🔗 Link |
-  |---|---|
-  | 📧 **Email** | [iqrasajid284@gmail.com](mailto:iqrasajid284@gmail.com) |
-  | 💼 **LinkedIn** | [in/iqra-sajid-a25241236](https://www.linkedin.com/in/iqra-sajid-a25241236) |
-  | 🐙 **GitHub** | [@Iqrasajid-01](https://github.com/Iqrasajid-01) |
-  | 📍 **Location** | Karachi, Pakistan 🇵🇰 |
-
-</div>
+**If you like my work, feel free to ⭐ star my repositories and follow me on GitHub!**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontAlignY=70&fontColor=fff"/>
+*Built with passion and ☕ by Iqra Sajid*
 
-  <br/><br/>
-  <b>⭐ If you like what you see, star my repos and follow me!</b>
-  <br/><br/>
-  <i>Crafted with passion, precision, and plenty of ☕ by Iqra Sajid</i>
 </div>
