@@ -81,15 +81,24 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    height="170"
+  />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true" 
+    height="170"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true" 
+    height="170"
+  />
+</p>
 
 ---
 
