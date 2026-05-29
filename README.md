@@ -24,46 +24,6 @@
 
 </div>
 
-<!-- About Me Section -->
-<details open>
-<summary><h2>👩‍💻 About Me</h2></summary>
-
-<br/>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
-```yaml
-name: Iqra Sajid
-located_in: Karachi, Pakistan 🇵🇰
-current_status: Open for Freelance & Collaborations
-
-fields_of_interest:
-  [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Chatbot Development",
-    "Open Source"
-  ]
-
-currently_learning:
-  [
-    "Advanced AI Agents",
-    "Cloud Architecture",
-    "System Design"
-  ]
-
-aspiring_role:
-  [
-    "AI-Powered Full Stack Developer",
-    "Technical Innovator"
-  ]
-```
-
-<br clear="right"/>
-</details>
-
----
-
 ## 💼 What I Do
 
 > *"I transform ideas into powerful, scalable solutions."*
@@ -81,32 +41,27 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css" />
-  </a>
-</p>
+### ⚡ Languages & Frameworks
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,streamlit,mongodb" />
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,opencv" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+### 🤖 AI & Machine Learning
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
-  </a>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Chatbots](https://img.shields.io/badge/AI_Chatbots-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧰 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
@@ -114,13 +69,11 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="165"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true&background=0D1117" height="165"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true)
 
 </div>
 
