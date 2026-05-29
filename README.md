@@ -81,127 +81,32 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 ## 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td colspan="2" align="center"><h3>💻 Programming Languages</h3></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48"/><br/><b>Java</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48"/><br/><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48"/><br/><b>TypeScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48"/><br/><b>Python</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48"/><br/><b>C</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48"/><br/><b>C++</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48"/><br/><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48"/><br/><b>CSS3</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,html,css" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,streamlit,mongodb" />
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td colspan="4" align="center"><h3>⚡ Frameworks & Libraries</h3></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/><b>React</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br/><b>Next.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/><b>Node.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br/><b>Express.js</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48"/><br/><b>Django</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/><br/><b>Flask</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48"/><br/><b>Streamlit</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="48"/><br/><b>MongoDB</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,opencv" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
-<br/>
-
-<table>
-  <tr>
-    <td colspan="6" align="center"><h3>🤖 AI & Machine Learning</h3></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><b>TensorFlow</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48"/><br/><b>Keras</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/><br/><b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="48"/><br/><b>spaCy</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br/><b>OpenCV</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/><b>Jupyter</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td colspan="6" align="center"><h3>🛠️ Tools & Platforms</h3></td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/><br/><b>GitHub</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/><b>Git</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br/><b>Linux</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/><br/><b>Bash</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/><b>VS Code</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode" />
+  </a>
+</p>
 
 ---
 
@@ -209,11 +114,13 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Iqrasajid-01&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqrasajid-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="165"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iqrasajid-01&theme=radical&hide_border=true&background=0D1117" height="165"/>
 
 </div>
 
