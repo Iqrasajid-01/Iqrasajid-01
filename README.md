@@ -26,7 +26,9 @@
 
 ## 💼 What I Do
 
-<img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+
+<div>
 
 > *"I transform ideas into powerful, scalable solutions."*
 
@@ -38,6 +40,12 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 | **🌐 Full Stack Development** | Complete web applications from frontend to backend |
 | **🔧 Custom Solutions** | Tailored software for business needs and workflows |
 | **⚡ Rapid Prototyping** | Quick MVP development for startups and hackathons |
+
+</div>
+
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
+</div>
 
 ---
 
