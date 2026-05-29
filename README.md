@@ -38,6 +38,8 @@ As a **Full Stack Developer** and **AI Engineer**, I specialize in building end-
 | **⚡ Rapid Prototyping** | Quick MVP development for startups and hackathons |
 
 ---
+<br/>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 ## 🛠️ Tech Stack & Skills
 
